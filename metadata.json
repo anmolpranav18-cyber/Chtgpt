@@ -1,0 +1,6 @@
+{
+  "name": "ChatGPT",
+  "description": "ChatGPT productivity suite featuring conversational AI, voice mode, deep research, canvas workspace, collaborative spaces, autonomous dots, and custom GPTs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
